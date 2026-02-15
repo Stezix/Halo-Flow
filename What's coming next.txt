@@ -1,0 +1,3 @@
+- Keyboard Shortcuts
+- Drag & Drop Video
+- Quick Jump Buttons (+5s, +10s, +15s...)
