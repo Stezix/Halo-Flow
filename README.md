@@ -4,6 +4,11 @@ Fast & lightweight FFmpeg GUI tool for video cutting. Extract clips from MP4/MKV
 
 Perfect for editors who hate opening multiple windows just to cut a single scene! :D
 
+**Preview**:
+
+<img width="603" height="642" alt="Preview v0 0 1" src="https://github.com/user-attachments/assets/429f96a8-2c71-4b0f-bd12-a8e5f6850454" />
+
+
 ## ✨ Features
 - ⚡ Lightning-fast MP4 cutting (no re-encoding)
 - 🎯 Frame-accurate MKV re-encoding
