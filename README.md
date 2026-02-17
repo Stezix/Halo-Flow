@@ -17,7 +17,7 @@ Perfect for editors who hate opening multiple windows just to cut a single scene
 
 ## 📥 Download
 
-**[Latest Release (v0.0.1)](https://stezix.wixsite.com/home/choose-your-way/programs-i-use/halo-flow)**
+**[Setup](https://stezix.wixsite.com/home/choose-your-way/programs-i-use/halo-flow)**
 
 ## 🚀 Installation
 
