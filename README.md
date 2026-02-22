@@ -21,9 +21,18 @@ Perfect for editors who hate opening multiple windows just to cut a single scene
 
 ## 🚀 Installation
 
-1. Download  `Halo Flow Setup.bat`
-2. Run setup (as Administrator)
-3. Select `Install` and wait
+**There are 2 ways of installing Halo Flow**
+
+**First way - Easier:**
+1. Download  `Halo Flow Setup.exe`
+2. Run setup.
+3. Select preferences and install.
+4. Done!
+
+**Second way:**
+1. Download all files expect License and Source Code files from latest release.
+2. Make folder in C:\Program Files (x86)\Stezix\Halo Flow\  <-- Here you will put the version from latest release - e.g. **v0.0.1** and IN that folder that few files you downloaded.
+3. Make Desktop shortcut if you want, then run the program.
 4. Done!
 
 ## 🎮 How to Use
